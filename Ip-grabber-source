@@ -1,0 +1,5 @@
+@echo off
+title %random%
+start https://www.ps3cfw.com/cool.php?item=16115883
+pause
+exit
